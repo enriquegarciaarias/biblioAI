@@ -1,0 +1,10 @@
+{
+    "environment": {
+        "realPath": "",
+        "inputPath": "input",
+        "outputPath": "output",
+        ".pycache": ".pycache"
+    },
+    "defaults": {},
+
+}
